@@ -1,0 +1,10 @@
+C:\Users\Samet\Desktop\GR10\GR10\bin\Debug\GR10.exe.config
+C:\Users\Samet\Desktop\GR10\GR10\bin\Debug\GR10.exe
+C:\Users\Samet\Desktop\GR10\GR10\bin\Debug\GR10.pdb
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.Form1.resources
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.Properties.Resources.resources
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.exe
+C:\Users\Samet\Desktop\GR10\GR10\obj\Debug\GR10.pdb
